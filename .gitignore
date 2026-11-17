@@ -1,0 +1,15 @@
+# real data never goes in this repo
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+
+# python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.env
